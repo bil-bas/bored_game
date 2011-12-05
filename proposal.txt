@@ -1,0 +1,16 @@
+Bored Game is a RubyFX driven engine which allows users to play turn-based, 2D games either on a single computer or over a network.
+
+Currently it can be used to play (and for which the game logic is complete):
+* Noughts and Crosses (a.k.a. Tic-Tac-Toe)
+* Hnefatafl (a.k.a. The Viking Game)
+* Ludo.
+* Shoggoth (a.k.a. Attaxx)
+Each game type can be played on various size boards with various setups.
+
+Future Developments:
+Games such as Chess, Go, etc. would be relatively easy to add, working within the existing framework.
+Future work will include implementing hex-based, isometric-view and/or province-based (e.g. Risk) boards.
+Hopefully original game designs will be created for the engine. This also means that games which could not be played without a computer can be made.
+
+There is no intention to program AI into the games. It would however, be
+possible to do this by simply writing a robot which connected via TCP.

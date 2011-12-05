@@ -1,0 +1,1 @@
+"d:\Program files\ruby180\bin\rubyw" "bg_client.rbw" > logONE.txt &

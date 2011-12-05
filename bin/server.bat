@@ -1,0 +1,1 @@
+"d:\Program files\ruby180\bin\ruby" "bg_server.rb" > serverLog.txt
